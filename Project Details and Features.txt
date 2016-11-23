@@ -1,0 +1,12 @@
+
+Project Description & Features:
+
+This project was created to introduce the AngularJS and display some of the features such as two way data binding, url routing, and directives.
+
+This is a small app for a fictional web design agency. It will have the following three pages : - 
+
+ a) Home
+
+ b) About 
+
+ c) Contact
